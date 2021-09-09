@@ -1,5 +1,6 @@
 List of dependencies:
-
+	
+	- Python 3.7
 	- Numpy 
 	- Mediapipe
 	- Scikit-Learn
